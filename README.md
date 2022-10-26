@@ -1,2 +1,3 @@
 # css-flex-box
- Galeria de fotos usando css flex box.
+ Uma galeria de fotos, com o estudo em css flex box.
+ 
